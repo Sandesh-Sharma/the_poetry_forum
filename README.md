@@ -24,5 +24,7 @@ Let's do this!
 ## The Poem
 
   Hey, Beautiful  
-  You are so cool  
+  You are so cool
+  Dont be a fool
+  
   
