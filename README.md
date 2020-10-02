@@ -14,13 +14,12 @@ Let's do this!
        ![Readme file](README.md)
 > 2. Fork this file and edit.
       <img src="resources/1.png" alt="" width="700"/>
-      ![Fork and edit](resources/1.png =600x)
 > 3. Write your poem
       <img src="resources/2.png" alt="contribute" width="700"/>
 > 4. Do a pull request
-         <img src="resources/3.png" alt="" width="700"/>
-         <img src="resources/4.png" alt="" width="700"/>
-         <img src="resources/5.png" alt="" width="700"/>
+      <img src="resources/3.png" alt="" width="700"/>
+      <img src="resources/4.png" alt="" width="700"/>
+      <img src="resources/5.png" alt="" width="700"/>
      
 
 
