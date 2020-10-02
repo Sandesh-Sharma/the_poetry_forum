@@ -9,7 +9,7 @@ Let's do this!
  
 ## How?
 
-> 1. Go to readme.md :![Readme file](README.md)  
+> 1. Go to readme.md :[Readme file](README.md)  
 > 2. Click on the fork and edit option.(pen icon)  
      <img src="resources/1.png" alt="" width="700"/>  
 > 3. Write your poem  
