@@ -56,18 +56,17 @@ So, yes! You can win a T-Shirt and few awesome stickers to attach on your laptop
 It's very easy. You don't need to be an expert in coding and programming. Here are the steps you need to follow to create your -(maybe)- EXAMPLE first pull request within few minutes.
 
 1. **Star this repository and Follow me on Github [here](https://github.com/Sandesh-Sharma).**
-   ![](Images/star.png)
-   ![](Images/follow.png)
 2. **Navigate to `readme.md` file**: [readme](readme.md)
-   ![]()
-3. **Edit the file and insert your line.(Scroll down to the end of the file)**
    ![](resources/1.png)
+3. **Click on the edit file, scroll down to the end and insert your line.**
    ![](resources/2.png)
-4. **Now click on Propose button.**
    ![](resources/3.png)
-5. **Create a new pull request.**
    ![](resources/4.png)
+4. **Now click on Propose button.**
    ![](resources/5.png)
+5. **Create a new pull request.**
+   ![](resources/6.png)
+   ![](resources/7.png)
 6. **Wait for your Pull Request to be reviewed and merged!**
 7. **Enjoy and welcome to Hacktoberfest 2020 and Keep Contributing :)**
 
