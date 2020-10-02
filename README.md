@@ -7,13 +7,20 @@ to the previous sentence and create a PR. You can also add your
 independent poem by creating a new file.
 Let's do this!
 
-  
+ 
 ## How?
 
 > 1. Go to readme.md.
+       ![Readme file](README.md)
 > 2. Fork this file and edit.
+      ![Fork and edit](resources/1.png)
 > 3. Write your poem
+      ![Contribute you lines](resources/2.png)
 > 4. Do a pull request
+      ![Contribute you lines](resources/3.png)
+      ![Contribute you lines](resources/4.png)
+      ![Contribute you lines](resources/5.png)
+     
 
 
 ## The Poem
