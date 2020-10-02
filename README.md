@@ -25,7 +25,6 @@ Let's do this!
 
   Hey, Beautiful  
   You are so cool  
-  Dont be a fool  
+  I am not a fool
   This should be meaningful
-  
-  
+
