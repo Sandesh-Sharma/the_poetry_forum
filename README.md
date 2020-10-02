@@ -118,6 +118,14 @@ Let's do this!
       Don't be so shy
       
       
+      Hey, Hi! Ok Listen
+      I am here on a mission.
+      Pull Request? I just did it.
+      Now waiting for T-shirt from DigitalOcean.
+      
+      
+      
+      
       
       
 
