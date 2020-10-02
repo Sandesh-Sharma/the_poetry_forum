@@ -55,12 +55,12 @@ So, yes! You can win a T-Shirt and few awesome stickers to attach on your laptop
 
 It's very easy. You don't need to be an expert in coding and programming. Here are the steps you need to follow to create your -(maybe)- EXAMPLE first pull request within few minutes.
 
-1. **Star this repository and Follow me on Github [here](https://github.com/Parajulibkrm/).**
+1. **Star this repository and Follow me on Github [here](https://github.com/Sandesh-Sharma).**
    ![](Images/star.png)
    ![](Images/follow.png)
 2. **Navigate to `readme.md` file**: [readme](readme.md)
    ![]()
-3. **Edit the file and insert your name.**
+3. **Edit the file and insert your line.(Scroll down to the end of the file)**
    ![](resources/1.png)
    ![](resources/2.png)
 4. **Now click on Propose button.**
@@ -83,11 +83,14 @@ If you have participated in Hacktoberfest Meetup Nepal and created successful pu
 ## 🤗 Other Repositories to contribute to
 
 - [Hacktoberfest-Simple-Practice-Programmes](https://github.com/bigyanic/Hacktoberfest-Simple-Practice-Programmes)
-- [the_poetry_forum](https://github.com/Sandesh-Sharma/the_poetry_forum)
+- [Hacktoberfest-Nepal](https://github.com/Parajulibkrm/Hacktoberfest-Nepal)
 - [Hacktoberfest-Nepal-2020](https://github.com/Saugat-Adhikari/Hacktoberfest-Nepal-2020)
 - [Hacktoberfest](https://github.com/arjunadhikary/Hacktoberfest)
 
 
+
+***
+***
 
 
 # The Poetry Forum
@@ -99,10 +102,21 @@ Let's do this!
 
  
     
-## The Poem
+## Our Poem (Add your line here at the very end)
 
-  Hey, Beautiful  
-  You are so cool  
-  I am not a fool
-  This should be meaningful
+
+
+  ``` Hey, Beautiful
+      You are so cool
+      I am not a fool
+      Is it meaningful?
+       
+      
+      Hey blue sky
+      There, I wanna fly
+      
+      
+      
+      
+
 
