@@ -24,7 +24,8 @@ Let's do this!
 ## The Poem
 
   Hey, Beautiful  
-  You are so cool
-  Dont be a fool
+  You are so cool  
+  Dont be a fool  
+  This should be meaningful
   
   
