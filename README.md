@@ -147,6 +147,9 @@ Let's do this!
       Sky with bight sun
       Thanks to DIGITALOCEAN
       
+      Other love  October
+      we love hacktober
+      
       
 
       I don't care 
