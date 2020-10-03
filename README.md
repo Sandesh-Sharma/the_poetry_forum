@@ -198,6 +198,10 @@ Let's do this!
       fear of falling
       it keeps you away from your dream #coding
       
+
+      Fix 5 errors,
+      Get 10 more free.
+
       All are learning     
       With fire burning
       Everyone is trying their best
