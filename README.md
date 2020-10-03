@@ -124,6 +124,10 @@ Let's do this!
       Now waiting for T-shirt from DigitalOcean.
       
       
+      I don't care 
+      Don't you dare
+      east or west 
+      I'll try to win a T-shirt from Hacktober fest
       
       
       
