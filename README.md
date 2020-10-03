@@ -123,6 +123,11 @@ Let's do this!
       Pull Request? I just did it.
       Now waiting for T-shirt from DigitalOcean.
       
+      Hey dude!
+      boost up your mood.
+      participating in this fest
+      With the proudness in your chest.
+      
       
       
       
