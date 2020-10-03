@@ -123,6 +123,12 @@ Let's do this!
       Pull Request? I just did it.
       Now waiting for T-shirt from DigitalOcean.
       
+       I am with you all guys
+      because i am highfi
+      don't worry about all
+      that's not your foul
+      
+      
       
       
       
