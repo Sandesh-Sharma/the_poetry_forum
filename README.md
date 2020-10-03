@@ -123,6 +123,10 @@ Let's do this!
       Pull Request? I just did it.
       Now waiting for T-shirt from DigitalOcean.
       
+      All are learning     
+      With fire burning
+      Everyone is trying their best
+      To get that T-shirt heist.
       
       
       
