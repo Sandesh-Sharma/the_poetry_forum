@@ -110,6 +110,7 @@ Let's do this!
       You are so cool
       I am not a fool
       Is it meaningful?
+      i am too cool
        
       
       Hey blue sky
