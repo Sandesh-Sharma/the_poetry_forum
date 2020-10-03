@@ -123,6 +123,9 @@ Let's do this!
       Pull Request? I just did it.
       Now waiting for T-shirt from DigitalOcean.
       
+      Other love  October
+      we love hacktober
+      
       
       
       
