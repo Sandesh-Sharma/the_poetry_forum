@@ -133,18 +133,9 @@ Let's do this!
       Come, gain our trust
       We are never at rush
       we're codeKavya's Workers
+      feeling happy haha
       
       
-      
-      Yeah,i have just completed a request for a pull
-      To get T-Shirt is not What I wanted all,
-      To contribute to opensource is my longterm goal.
-      
-      
-      Hey dude!
-      boost up your mood.
-      participating in this fest
-      With the proudness in your chest.
       
       
       
