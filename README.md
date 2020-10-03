@@ -123,6 +123,11 @@ Let's do this!
       Pull Request? I just did it.
       Now waiting for T-shirt from DigitalOcean.
       
+      Yeah,i have just completed a request for a pull
+      To get T-Shirt is not What I wanted all,
+      To contribute to opensource is my longterm goal.
+      
+      
       
       
       
