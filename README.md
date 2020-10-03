@@ -143,8 +143,15 @@ Let's do this!
       Thanks to DIGITALOCEAN
       
       
+
+      I don't care 
+      Don't you dare
+      east or west 
+      I'll try to win a T-shirt from Hacktober fest
+
       My phone has been hacked,
       I feel gladdened to know, that
+
       
       Hey, Are You lost?
       Come, gain our trust
@@ -152,7 +159,7 @@ Let's do this!
       we're codeKavya's Workers
       feeling happy haha
       
-      mero bhayena aghi ko?
+     
       
       All are learning     
       With fire burning
