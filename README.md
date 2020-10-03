@@ -124,6 +124,11 @@ Let's do this!
       Now waiting for T-shirt from DigitalOcean.
       
       
+      Hey all the work is done
+      All pull request are gone
+      Sky with bight sun
+      Thanks to DIGITALOCEAN
+      
       
       
       
