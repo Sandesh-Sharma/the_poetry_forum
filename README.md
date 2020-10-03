@@ -123,7 +123,13 @@ Let's do this!
       Pull Request? I just did it.
       Now waiting for T-shirt from DigitalOcean.
       
-      
+   # The man in a car 
+   
+   I once knew a man who lived in a car.
+   For a stranger sight you'd have to go far.
+   I asked him once why he lived in a car.
+   He grimaced and said, how bizarre you are.
+
       
       
       
