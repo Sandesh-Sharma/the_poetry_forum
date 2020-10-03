@@ -123,10 +123,9 @@ Let's do this!
       Pull Request? I just did it.
       Now waiting for T-shirt from DigitalOcean.
       
-      
-      
-      
-      
-      
+      What are heavy? Sea-sand and sorrow;
+      What are brief? Today and tomorrow;
+      What are frail? Spring blossoms and youth;
+      What are deep? The ocean and truth.
 
 
