@@ -110,13 +110,14 @@ Let's do this!
       You are so cool
       I am not a fool
       Is it meaningful?
+      i am too cool
        
       
       Hey blue sky
       There, I wanna fly
       Wanna come fly? 
       Don't be so shy
-      
+      i dont wanna die
       
       Hey, Hi! Ok Listen
       I am here on a mission.
@@ -124,25 +125,72 @@ Let's do this!
       Now waiting for T-shirt from DigitalOcean.
       Enjoying Hacktoberfest
       
+
+      Hey Good Lookin'
+      Whatchu got cookin'?
+      
+
+
+      What are heavy? Sea-sand and sorrow;
+      What are brief? Today and tomorrow;
+      What are frail? Spring blossoms and youth;
+      What are deep? The ocean and truth.
+
+       I am with you all guys
+      because i am highfi
+      don't worry about all
+      that's not your foul
       
       
+     like a bookmark, I accompany the your voice
+     I felt solitude of conversation all over the night
+     you are blessed one to born with only one choice
+     As passed thousand years, it feels as if we've just met in evening light
+      
+      
+      Hey all the work is done
+      All pull request are gone
+      Sky with bight sun
+      Thanks to DIGITALOCEAN
+      
+      Other love  October
+      we love hacktober
+      
+
+      Roses are red
+      Voilets are blue
+      i can't rhyme
+      just like you
+
+      
+
+      I don't care 
+      Don't you dare
+      east or west 
+      I'll try to win a T-shirt from Hacktober fest
+
       My phone has been hacked,
       I feel gladdened to know, that
+
       
       Hey, Are You lost?
       Come, gain our trust
       We are never at rush
       we're codeKavya's Workers
-      
+      feeling happy haha
+
       fear of falling
       it keeps you away from your dream #coding
       
+      All are learning     
+      With fire burning
+      Everyone is trying their best
+      To get that T-shirt heist.
       
       
       
       
       
-      
-      
+
 
 
