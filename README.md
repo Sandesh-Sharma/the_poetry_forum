@@ -150,6 +150,12 @@ Let's do this!
       Other love  October
       we love hacktober
       
+
+      Roses are red
+      Voilets are blue
+      i can't rhyme
+      just like you
+
       
 
       I don't care 
@@ -166,6 +172,7 @@ Let's do this!
       We are never at rush
       we're codeKavya's Workers
       feeling happy haha
+
 
       
      
