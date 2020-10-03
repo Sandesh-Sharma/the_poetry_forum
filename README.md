@@ -172,6 +172,12 @@ Let's do this!
       My phone has been hacked,
       I feel gladdened to know, that
 
+      Aju bro sleep with his cat,
+      I alwaya fail in math
+      thankYou For the poem, 
+      you are handsome man,
+
+
       
       Hey, Are You lost?
       Come, gain our trust
@@ -187,6 +193,7 @@ Let's do this!
       Everyone is trying their best
       To get that T-shirt heist.
       
+
       
       
       
