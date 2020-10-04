@@ -225,6 +225,11 @@ Let's do this!
 Hey , do i even know you?
 i am here before you (lol bad poem)
       
+      
+      I tell a story
+      Through my lines
+      my story is not mine
+      I'm truly just on borrowed time
 
 
 
