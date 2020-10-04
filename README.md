@@ -226,6 +226,11 @@ Let's do this!
       #hey do i know you 
 Hey , do i even know you?
 i am here before you (lol bad poem)
+
+      approve pull request with 
+      hactoberfest-accepted
+      as per new update
+      from hactoberfest 2020
       
 # Do not expect to hear a love story from me,
 The moon will come to hear story of another moon from me.
