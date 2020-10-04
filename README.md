@@ -224,6 +224,11 @@ Let's do this!
       #hey do i know you 
 Hey , do i even know you?
 i am here before you (lol bad poem)
+
+      approve pull request with 
+      hactoberfest-accepted
+      as per new update
+      from hactoberfest 2020
       
 
 
