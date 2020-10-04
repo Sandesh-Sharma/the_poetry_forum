@@ -225,6 +225,7 @@ Let's do this!
 Hey , do i even know you?
 i am here before you (lol bad poem)
       
-
+# Do not expect to hear a love story from me,
+The moon will come to hear story of another moon from me.
 
 
