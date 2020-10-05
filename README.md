@@ -249,3 +249,12 @@ Let's do this!
        
        East or west 
        Imagination is best
+       
+       Goodbye, my love
+
+        Say good night
+        I cry every night
+        I thought about it every single day
+        don't mourn for me
+
+        For I may never find you
