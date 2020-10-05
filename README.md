@@ -246,3 +246,6 @@ Let's do this!
 
        # I wish we had an evening like this..
        Get out on a moon panel and come on roof.
+       
+       East or west 
+       Imagination is best
