@@ -266,3 +266,11 @@ Let's do this!
         don't mourn for me
 
         For I may never find you
+        For you may never find me
+        It is how it is Dear!!
+        Will it be over Ever?
+        Hey, my sunshine
+        Let's dine and wine
+        We'll be fine
+        Under a vine
+        And beyond ninety nine!!
