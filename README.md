@@ -74,7 +74,7 @@ It's very easy. You don't need to be an expert in coding and programming. Here a
 
 ## 🔥 What will happen after my contribution?
 
-Your line will be merged into the poem soon and you can see it in the readme.md file. 
+Your line will be merged into the poem soon and you can see it in the readme.md file.
 If you have participated in Hacktoberfest Meetup Nepal and created successful pull request in all the repositories mentioned below, you'll be eligible to win a free hosting acount from our sponsor.
 
 ---
@@ -86,191 +86,189 @@ If you have participated in Hacktoberfest Meetup Nepal and created successful pu
 - [Hacktoberfest-Nepal-2020](https://github.com/Saugat-Adhikari/Hacktoberfest-Nepal-2020)
 - [Hacktoberfest](https://github.com/arjunadhikary/Hacktoberfest)
 
+---
 
-
-***
-***
-
+---
 
 # The Poetry Forum
 
 This poem is void of title, structure, and context. You can add anything here. You can add some sentences  
 or even a word that rhyme to the previous sentence and create a PR. You can also add your independent poem  
 by creating a new file.  
-Let's do this!    
+Let's do this!
 
- 
-    
 ## Our Poem here(Add your line at the very end)
 
+```
+    Hey, Beautiful
+    You are so cool
+    I am not a fool
+    Is it meaningful?
+    i am too cool
 
 
-  ``` 
-      Hey, Beautiful
-      You are so cool
-      I am not a fool
-      Is it meaningful?
-      i am too cool
-       
-      
-      Hey blue sky
-      There, I wanna fly
-      Wanna come fly? 
-      Don't be so shy
-      i dont wanna die
-      
-      Hey, Hi! Ok Listen
-      I am here on a mission.
-      Pull Request? I just did it.
-      Now waiting for T-shirt from DigitalOcean.
-      Enjoying Hacktoberfest
-      
+    Hey blue sky
+    There, I wanna fly
+    Wanna come fly?
+    Don't be so shy
+    i dont wanna die
 
-      Hey Good Lookin'
-      Whatchu got cookin'?
-      
+    Hey, Hi! Ok Listen
+    I am here on a mission.
+    Pull Request? I just did it.
+    Now waiting for T-shirt from DigitalOcean.
+    Enjoying Hacktoberfest
 
 
-      What are heavy? Sea-sand and sorrow;
-      What are brief? Today and tomorrow;
-      What are frail? Spring blossoms and youth;
-      What are deep? The ocean and truth.
-
-       I am with you all guys
-      because i am highfi
-      don't worry about all
-      that's not your foul
-      
-      
-
-   # The man in a car 
-   
-   I once knew a man who lived in a car.
-   For a stranger sight you'd have to go far.
-   I asked him once why he lived in a car.
-   He grimaced and said, how bizarre you are.
-
-
-     like a bookmark, I accompany the your voice
-     I felt solitude of conversation all over the night
-     you are blessed one to born with only one choice
-     As passed thousand years, it feels as if we've just met in evening light
-      
-
-      
-      Hey all the work is done
-      All pull request are gone
-      Sky with bight sun
-      Thanks to DIGITALOCEAN
-      
-      Other love  October
-      we love hacktober
-      
-
-      Roses are red
-      Voilets are blue
-      i can't rhyme
-      just like you
-
-      
-
-      I don't care 
-      Don't you dare
-      east or west 
-      I'll try to win a T-shirt from Hacktober fest
-
-      My phone has been hacked,
-      I feel gladdened to know, that
-
-      Aju bro sleep with his cat,
-      I alwaya fail in math
-      thankYou For the poem, 
-      you are handsome man,
-
-
-      
-      Hey, Are You lost?
-      Come, gain our trust
-      We are never at rush
-      we're codeKavya's Workers
-      feeling happy haha
-
-      fear of falling
-      it keeps you away from your dream #coding
-      
-
-      Fix 5 errors,
-      Get 10 more free.
-
-      All are learning     
-      With fire burning
-      Everyone is trying their best
-      To get that T-shirt heist.
-      
-      Yeah,i have just completed a request for a pull	
-      To get T-Shirt is not What I wanted all,	
-      To contribute to opensource is my longterm goal.	
-      	
-      	
-      Hey dude!	
-      boost up your mood.	
-      participating in this fest	
-      With the proudness in your chest.
-      
-
-      I came here for hacktober fest
-      This will be my third pull request
-      
-      Poem is just getting longer
-      
-      #hey do i know you 
-      Hey , do i even know you?
-      i am here before you (lol bad poem)
-
-      
-      
-      I tell a story
-      Through my lines
-      my story is not mine
-      I'm truly just on borrowed time
+    Hey Good Lookin'
+    Whatchu got cookin'?
 
 
 
-      approve pull request with 
-      hactoberfest-accepted
-      as per new update
-      from hactoberfest 2020
-      
-      # Do not expect to hear a love story from me,
-       The moon will come to hear story of another moon from me.
+    What are heavy? Sea-sand and sorrow;
+    What are brief? Today and tomorrow;
+    What are frail? Spring blossoms and youth;
+    What are deep? The ocean and truth.
 
-       # I wish we had an evening like this..
-       Get out on a moon panel and come on roof.
-       
-       Roaming in the sky
-       lonely as a cloud
-       For those all your works 
-       I am feeling really proud
-    
-      
-       
-       
-       East or west 
-       Imagination is best
-       
-       Goodbye, my love
+     I am with you all guys
+    because i am highfi
+    don't worry about all
+    that's not your foul
 
-        Say good night
-        I cry every night
-        I thought about it every single day
-        don't mourn for me
 
-        For I may never find you
-        For you may never find me
-        It is how it is Dear!!
-        Will it be over Ever?
-        Hey, my sunshine
-        Let's dine and wine
-        We'll be fine
-        Under a vine
-        And beyond ninety nine!!
+
+ # The man in a car
+
+ I once knew a man who lived in a car.
+ For a stranger sight you'd have to go far.
+ I asked him once why he lived in a car.
+ He grimaced and said, how bizarre you are.
+
+
+   like a bookmark, I accompany the your voice
+   I felt solitude of conversation all over the night
+   you are blessed one to born with only one choice
+   As passed thousand years, it feels as if we've just met in evening light
+
+
+
+    Hey all the work is done
+    All pull request are gone
+    Sky with bight sun
+    Thanks to DIGITALOCEAN
+
+    Other love  October
+    we love hacktober
+
+
+    Roses are red
+    Voilets are blue
+    i can't rhyme
+    just like you
+
+
+
+    I don't care
+    Don't you dare
+    east or west
+    I'll try to win a T-shirt from Hacktober fest
+
+    My phone has been hacked,
+    I feel gladdened to know, that
+
+    Aju bro sleep with his cat,
+    I alwaya fail in math
+    thankYou For the poem,
+    you are handsome man,
+
+
+
+    Hey, Are You lost?
+    Come, gain our trust
+    We are never at rush
+    we're codeKavya's Workers
+    feeling happy haha
+
+    fear of falling
+    it keeps you away from your dream #coding
+
+
+    Fix 5 errors,
+    Get 10 more free.
+
+    All are learning
+    With fire burning
+    Everyone is trying their best
+    To get that T-shirt heist.
+
+    Yeah,i have just completed a request for a pull
+    To get T-Shirt is not What I wanted all,
+    To contribute to opensource is my longterm goal.
+
+
+    Hey dude!
+    boost up your mood.
+    participating in this fest
+    With the proudness in your chest.
+
+
+    I came here for hacktober fest
+    This will be my third pull request
+
+    Poem is just getting longer
+
+    #hey do i know you
+    Hey , do i even know you?
+    i am here before you (lol bad poem)
+
+
+
+    I tell a story
+    Through my lines
+    my story is not mine
+    I'm truly just on borrowed time
+
+
+
+    approve pull request with
+    hactoberfest-accepted
+    as per new update
+    from hactoberfest 2020
+
+    # Do not expect to hear a love story from me,
+     The moon will come to hear story of another moon from me.
+
+     # I wish we had an evening like this..
+     Get out on a moon panel and come on roof.
+
+     Roaming in the sky
+     lonely as a cloud
+     For those all your works
+     I am feeling really proud
+
+
+
+
+     East or west
+     Imagination is best
+
+     Goodbye, my love
+
+      Say good night
+      I cry every night
+      I thought about it every single day
+      don't mourn for me
+
+      For I may never find you
+      For you may never find me
+      It is how it is Dear!!
+      Will it be over Ever?
+      Hey, my sunshine
+      Let's dine and wine
+      We'll be fine
+      Under a vine
+      And beyond ninety nine!!
+
+      Hey dear you look so good in that dress
+      you are successful to make me impress
+
