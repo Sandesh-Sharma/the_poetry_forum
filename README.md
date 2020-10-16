@@ -275,7 +275,15 @@ Let's do this!
         Under a vine
         And beyond ninety nine!!
         
+
+        hello bro how are you?
+        i am fine how do you do?
+        i am missing you so much
+        i am eating food so much
+        
+
         ## "if i had only wish
         then i know what that would be
         i'd wish that how i feel
         for you is how you'd feel for me." ##
+
