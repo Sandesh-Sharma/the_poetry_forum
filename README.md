@@ -286,4 +286,10 @@ Let's do this!
         then i know what that would be
         i'd wish that how i feel
         for you is how you'd feel for me." ##
+        
+        I came here after 14 days, 
+        to complete my hacktoberfest challange.
+        Looking to the Repo,
+        My laptop is my bebo.
+        
 
