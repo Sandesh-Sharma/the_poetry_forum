@@ -319,5 +319,11 @@ Let's do this!
 	      The challenge of thought finds
 	      ourselves in constant 
 	      questioning of our own beliefs
+	      
+	      Making us numb I know how it feels
+	      the time passes as I go deep 
+	      in this constant battle of my beliefs 
+	      
+	      
 
 
