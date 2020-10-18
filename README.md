@@ -297,3 +297,9 @@ Let's do this!
         Our insanity can't withstand the duality
         Why shouldn't we be curious
         When love itself reveals the brutality?
+
+	      ## Thought 
+	      The challenge of thought finds
+	      ourselves in constant 
+	      questioning of our own beliefs
+
