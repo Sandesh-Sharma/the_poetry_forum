@@ -281,13 +281,43 @@ Let's do this!
         i am missing you so much
         i am eating food so much
         
+         
+        I have a little cat
+        his name is pat
+        he sleeps on the mat
+        he caught a big rat
+
 
         ## "if i had only wish
         then i know what that would be
         i'd wish that how i feel
         for you is how you'd feel for me." ##
         
+
         There is something on me
         and i am asking for the ghee
-        and thats agaiin me
+        and thats again me
+        
+        I came here after 14 days, 
+        to complete my hacktoberfest challange.
+        Looking to the Repo,
+        My laptop is my bebo.
+        
+
+
+        Humans are defined by their tragedy
+        Money, resource and assets are the forecoming reality
+        Why shouldn't we be curious???
+        When the brain itself is eager to interprete its anatomy
+        What shall define us
+        Our humanity, mentality, spirituality or financial capacity,
+        Our insanity can't withstand the duality
+        Why shouldn't we be curious
+        When love itself reveals the brutality?
+
+	      ## Thought 
+	      The challenge of thought finds
+	      ourselves in constant 
+	      questioning of our own beliefs
+
 
