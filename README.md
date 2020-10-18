@@ -287,7 +287,19 @@ Let's do this!
         i'd wish that how i feel
         for you is how you'd feel for me." ##
 
-	## Thought 
-	The challenge of thought finds
-	ourselves in constant 
-	questioning of our own beliefs
+
+        Humans are defined by their tragedy
+        Money, resource and assets are the forecoming reality
+        Why shouldn't we be curious???
+        When the brain itself is eager to interprete its anatomy
+        What shall define us
+        Our humanity, mentality, spirituality or financial capacity,
+        Our insanity can't withstand the duality
+        Why shouldn't we be curious
+        When love itself reveals the brutality?
+
+	      ## Thought 
+	      The challenge of thought finds
+	      ourselves in constant 
+	      questioning of our own beliefs
+
