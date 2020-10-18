@@ -287,3 +287,7 @@ Let's do this!
         i'd wish that how i feel
         for you is how you'd feel for me." ##
 
+	## Thought 
+	The challenge of thought finds
+	ourselves in constant 
+	questioning of our own beliefs
