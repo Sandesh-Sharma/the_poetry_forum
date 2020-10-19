@@ -319,5 +319,13 @@ Let's do this!
 	      The challenge of thought finds
 	      ourselves in constant 
 	      questioning of our own beliefs
+	      
+	      #The river flows 
+	      One goes deep into the flow 
+	      Becomes busy flowing to it
+	      Lost in the flow
+	      what happns
+	      Is that the one forgets
+	      what he is flowing for
 
 
