@@ -320,4 +320,7 @@ Let's do this!
 	      ourselves in constant 
 	      questioning of our own beliefs
 
-
+	If life is precious
+	then why aren't we helping each other??
+	why we are becoming more and more selfish?
+	why why why?
