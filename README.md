@@ -320,4 +320,7 @@ Let's do this!
 	      ourselves in constant 
 	      questioning of our own beliefs
 
+         I'm about to lose my mind,
+         you've been gone for soo long.
+
 
