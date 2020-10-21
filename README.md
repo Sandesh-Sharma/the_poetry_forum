@@ -320,4 +320,5 @@ Let's do this!
 	      ourselves in constant 
 	      questioning of our own beliefs
 
-
+	From east to west 
+	Python is The Best
