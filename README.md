@@ -319,6 +319,13 @@ Let's do this!
 	      The challenge of thought finds
 	      ourselves in constant 
 	      questioning of our own beliefs
+
+	
+	      Its not cool to go school
+	      But, School is not that cruel
+	      We must go to make our life
+	      Ok this much that I will type.
+
 	      
 	      
 	      Rose is Red
@@ -326,6 +333,7 @@ Let's do this!
 	      Python, My Bae
 	      I love you 
 	      XD
+
 
 
 
