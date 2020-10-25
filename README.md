@@ -320,6 +320,9 @@ Let's do this!
 	      ourselves in constant 
 	      questioning of our own beliefs
 
+	      From east to west 
+	      Python is The Best
+
 	      
 	       Roses are Red
 	       Sky is blue
@@ -344,3 +347,4 @@ Let's do this!
 
 
 	
+
