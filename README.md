@@ -319,9 +319,57 @@ Let's do this!
 	      The challenge of thought finds
 	      ourselves in constant 
 	      questioning of our own beliefs
-	
-	Its not cool to go school
-	But, School is not that cruel
-	We must go to make our life
-	Ok this much that I will type.
 
+	
+	      Its not cool to go school
+	      But, School is not that cruel
+	      We must go to make our life
+	      Ok this much that I will type.
+
+	      
+	      
+	      Rose is Red
+              Voilet is Blue
+	      Python, My Bae
+	      I love you 
+	      XD
+
+
+
+
+         I'm about to lose my mind,
+         you've been gone for soo long.
+
+
+	      From east to west 
+	      Python is The Best
+
+	      
+	       Roses are Red
+	       Sky is blue
+	       Hacktoberfest, I love you
+
+        Making us numb I know how it feels
+	      the time passes as I go deep 
+	      in this constant battle of my beliefs 
+	      
+	      
+
+
+	
+      	Name a single man who had no pain
+	      Its life principle No pain No gain
+	      You wanna gain then stand on your legs
+	      Stop seeking for plead
+	      Set your goal and make effort to have a step
+	      Change the gravel into paved
+	      So that your trash life will be saved
+
+
+
+	
+
+	If life is precious
+	then why aren't we helping each other??
+	why we are becoming more and more selfish?
+	why why why?
