@@ -320,11 +320,30 @@ Let's do this!
 	      ourselves in constant 
 	      questioning of our own beliefs
 
+
+  Keeping Things Whole
+      In a field
+      I am the absence
+      of the field
+      This is
+      always the case.
+      Wherever I am
+      I am what is missing.
+      
+      When I walk
+      I part the air
+      and always
+      the air moves in
+      to fill the spaces
+      where my bodys been.
+
+
 	
 	      Its not cool to go school
 	      But, School is not that cruel
 	      We must go to make our life
 	      Ok this much that I will type.
+
 
 	      
 	      
