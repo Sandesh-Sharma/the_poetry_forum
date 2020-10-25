@@ -361,4 +361,7 @@ Let's do this!
 
 	
 
-
+	If life is precious
+	then why aren't we helping each other??
+	why we are becoming more and more selfish?
+	why why why?
