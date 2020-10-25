@@ -319,6 +319,14 @@ Let's do this!
 	      The challenge of thought finds
 	      ourselves in constant 
 	      questioning of our own beliefs
+	      
+	      
+	      Rose is Red
+              Voilet is Blue
+	      Python, My Bae
+	      I love you 
+	      XD
+
 
 
          I'm about to lose my mind,
