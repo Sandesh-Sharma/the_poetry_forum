@@ -320,7 +320,37 @@ Let's do this!
 	      ourselves in constant 
 	      questioning of our own beliefs
 
+
          I'm about to lose my mind,
          you've been gone for soo long.
+
+
+	      From east to west 
+	      Python is The Best
+
+	      
+	       Roses are Red
+	       Sky is blue
+	       Hacktoberfest, I love you
+
+        Making us numb I know how it feels
+	      the time passes as I go deep 
+	      in this constant battle of my beliefs 
+	      
+	      
+
+
+	
+      	Name a single man who had no pain
+	      Its life principle No pain No gain
+	      You wanna gain then stand on your legs
+	      Stop seeking for plead
+	      Set your goal and make effort to have a step
+	      Change the gravel into paved
+	      So that your trash life will be saved
+
+
+
+	
 
 
