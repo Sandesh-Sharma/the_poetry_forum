@@ -286,7 +286,7 @@ Let's do this!
         his name is pat
         he sleeps on the mat
         he caught a big rat
-
+	but of nowhere appeared a gnat
 
         ## "if i had only wish
         then i know what that would be
@@ -413,4 +413,3 @@ And they multiply.
 	then why aren't we helping each other??
 	why we are becoming more and more selfish?
 	why why why?
-
