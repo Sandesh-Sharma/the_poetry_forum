@@ -413,4 +413,12 @@ And they multiply.
 	then why aren't we helping each other??
 	why we are becoming more and more selfish?
 	why why why?
+	
+	I love the sound of birds
+        so early in the morn,
+        I like the sound of puppies soon after they are born.
+
+        I love the smell of flowers
+        and the taste of honey from bees.
+        I love the sound the wind makes when it’s blowing through the trees.
 
