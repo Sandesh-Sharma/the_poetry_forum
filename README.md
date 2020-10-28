@@ -413,4 +413,21 @@ And they multiply.
 	then why aren't we helping each other??
 	why we are becoming more and more selfish?
 	why why why?
+	
+	
+                                     r-p-o-p-h-e-s-s-a-g-r
+                           who
+  a)s w(e loo)k
+  upnowgath
+                       PPEGORHRASS
+                                                       eringint(o-
+  aThe):l
+               eA
+                    !p:
+S                                                                        a
+                                      (r
+  rIvInG                              .gRrEaPsPhOs)
+                                                                         to
+  rea(be)rran(com)gi(e)ngly
+  ,grasshopper;
 
