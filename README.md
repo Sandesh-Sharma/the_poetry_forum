@@ -413,4 +413,19 @@ And they multiply.
 	then why aren't we helping each other??
 	why we are becoming more and more selfish?
 	why why why?
+	
+	 # The man in a car 
+   
+   I once knew a man who lived in a car.
+   For a stranger sight you'd have to go far.
+   I asked him once why he lived in a car.
+   He grimaced and said, how bizarre you are.
+
+
+     like a bookmark, I accompany the your voice
+     I felt solitude of conversation all over the night
+     you are blessed one to born with only one choice
+     As passed thousand years, it feels as if we've just met in evening light
+      
+	
 
