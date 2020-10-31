@@ -414,3 +414,10 @@ And they multiply.
 	why we are becoming more and more selfish?
 	why why why?
 
+Hacktoberfest eve
+My goal yet to achieve,
+to bag me some swag and learn.
+
+All month I've worked hard
+to earn but a shard,
+Now I'm hacking for some knowledge to earn.
