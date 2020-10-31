@@ -413,4 +413,12 @@ And they multiply.
 	then why aren't we helping each other??
 	why we are becoming more and more selfish?
 	why why why?
+	
+And I think to myself 	
+what a wonderful world!
+
+They walk amongst us, but in silent ways,
+spreading peace and love without any praise.
+When thunder roars and lightning strikes in rain
+they watch over us, healing bleeding pain.
 
