@@ -414,6 +414,21 @@ And they multiply.
 	why why why?
 	
 
+	 # The man in a car 
+   
+   I once knew a man who lived in a car.
+   For a stranger sight you'd have to go far.
+   I asked him once why he lived in a car.
+   He grimaced and said, how bizarre you are.
+
+
+     like a bookmark, I accompany the your voice
+     I felt solitude of conversation all over the night
+     you are blessed one to born with only one choice
+     As passed thousand years, it feels as if we've just met in evening light
+      
+	
+
 A line at the end of the beginning - erasure of subjectivity by gipsi
 
 
@@ -428,6 +443,7 @@ they watch over us, healing bleeding pain.
 Hacktoberfest eve
 My goal yet to achieve,
 to bag me some swag and learn.
+
 
 
 All month I've worked hard
