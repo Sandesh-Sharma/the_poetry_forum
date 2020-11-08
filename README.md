@@ -408,12 +408,15 @@ And they multiply.
 
 	
 
-
 	If life is precious
 	then why aren't we helping each other??
 	why we are becoming more and more selfish?
 	why why why?
 	
+
+A line at the end of the beginning - erasure of subjectivity by gipsi
+
+
 And I think to myself 	
 what a wonderful world!
 
@@ -425,6 +428,7 @@ they watch over us, healing bleeding pain.
 Hacktoberfest eve
 My goal yet to achieve,
 to bag me some swag and learn.
+
 
 All month I've worked hard
 to earn but a shard,
