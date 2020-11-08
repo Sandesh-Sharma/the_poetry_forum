@@ -408,12 +408,12 @@ And they multiply.
 
 	
 
-
 	If life is precious
 	then why aren't we helping each other??
 	why we are becoming more and more selfish?
 	why why why?
 	
+
 	I love the sound of birds
         so early in the morn,
         I like the sound of puppies soon after they are born.
@@ -422,3 +422,40 @@ And they multiply.
         and the taste of honey from bees.
         I love the sound the wind makes when it’s blowing through the trees.
 
+
+	 # The man in a car 
+   
+   I once knew a man who lived in a car.
+   For a stranger sight you'd have to go far.
+   I asked him once why he lived in a car.
+   He grimaced and said, how bizarre you are.
+
+
+     like a bookmark, I accompany the your voice
+     I felt solitude of conversation all over the night
+     you are blessed one to born with only one choice
+     As passed thousand years, it feels as if we've just met in evening light
+      
+	
+
+A line at the end of the beginning - erasure of subjectivity by gipsi
+
+
+And I think to myself 	
+what a wonderful world!
+
+They walk amongst us, but in silent ways,
+spreading peace and love without any praise.
+When thunder roars and lightning strikes in rain
+they watch over us, healing bleeding pain.
+
+Hacktoberfest eve
+My goal yet to achieve,
+to bag me some swag and learn.
+
+
+
+
+All month I've worked hard
+to earn but a shard,
+Now I'm hacking for some knowledge to earn.
