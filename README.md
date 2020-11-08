@@ -408,12 +408,12 @@ And they multiply.
 
 	
 
-
 	If life is precious
 	then why aren't we helping each other??
 	why we are becoming more and more selfish?
 	why why why?
 	
+
 	 # The man in a car 
    
    I once knew a man who lived in a car.
@@ -429,3 +429,23 @@ And they multiply.
       
 	
 
+A line at the end of the beginning - erasure of subjectivity by gipsi
+
+
+And I think to myself 	
+what a wonderful world!
+
+They walk amongst us, but in silent ways,
+spreading peace and love without any praise.
+When thunder roars and lightning strikes in rain
+they watch over us, healing bleeding pain.
+
+Hacktoberfest eve
+My goal yet to achieve,
+to bag me some swag and learn.
+
+
+
+All month I've worked hard
+to earn but a shard,
+Now I'm hacking for some knowledge to earn.
