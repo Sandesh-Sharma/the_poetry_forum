@@ -414,6 +414,15 @@ And they multiply.
 	why why why?
 	
 
+	I love the sound of birds
+        so early in the morn,
+        I like the sound of puppies soon after they are born.
+
+        I love the smell of flowers
+        and the taste of honey from bees.
+        I love the sound the wind makes when it’s blowing through the trees.
+
+
 	 # The man in a car 
    
    I once knew a man who lived in a car.
@@ -443,6 +452,7 @@ they watch over us, healing bleeding pain.
 Hacktoberfest eve
 My goal yet to achieve,
 to bag me some swag and learn.
+
 
 
 
