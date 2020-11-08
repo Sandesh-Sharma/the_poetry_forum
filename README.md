@@ -422,3 +422,10 @@ spreading peace and love without any praise.
 When thunder roars and lightning strikes in rain
 they watch over us, healing bleeding pain.
 
+Hacktoberfest eve
+My goal yet to achieve,
+to bag me some swag and learn.
+
+All month I've worked hard
+to earn but a shard,
+Now I'm hacking for some knowledge to earn.
