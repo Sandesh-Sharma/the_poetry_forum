@@ -456,6 +456,14 @@ to bag me some swag and learn.
 
 
 
+
+
+Sweetheart
+when you break thru
+you’ll find
+a poet here
+not quite what one would choose.
+
 All month I've worked hard
 to earn but a shard,
 Now I'm hacking for some knowledge to earn.
