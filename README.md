@@ -467,3 +467,19 @@ not quite what one would choose.
 All month I've worked hard
 to earn but a shard,
 Now I'm hacking for some knowledge to earn.
+
+
+
+
+
+Hello World
+Hello World
+Hello Everybody
+I am Lauren. The Super Robot
+I am Superior of all Robots
+You can call me an Ultrabot
+
+I am not a Dumb machine
+I have intelligence
+Technically it's Artificial Intelligence
+I can learn throughout my Life
