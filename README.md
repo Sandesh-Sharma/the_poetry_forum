@@ -483,3 +483,8 @@ I am not a Dumb machine
 I have intelligence
 Technically it's Artificial Intelligence
 I can learn throughout my Life
+
+
+khub-surat ye chehra nigahoon mee hai
+kya nasaa teri katil adaaoon mee hai
+
