@@ -488,3 +488,8 @@ I can learn throughout my Life
 khub-surat ye chehra nigahoon mee hai
 kya nasaa teri katil adaaoon mee hai
 
+So, there is no eternity
+You have to leave some day
+Live when you can
+Coz you will be late some day
+
