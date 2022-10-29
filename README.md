@@ -493,3 +493,16 @@ You have to leave some day
 Live when you can
 Coz you will be late some day
 
+
+
+
+I'd be a bit by love
+I'd get a heavy kick
+I'd only have to flip
+I'd never have to think
+I'd always have my friends
+I'd nothing here to fear
+I'd precious purpose here
+I'd worthless clue alone
+I'd breathless bring the clue
+~MrStrenggeheim
